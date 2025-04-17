@@ -1,1 +1,1 @@
-podman exec -it priceless_mirzakhani /bin/bash
+podman exec -it priceless_shtern /bin/bash
