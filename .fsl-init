@@ -1,0 +1,1 @@
+podman run --mount type=bind,source=.,target=/projects/fsl -v /tmp/.X11-unix:/tmp/.X11-unix -e DISPLAY -d -it fsl-entry
